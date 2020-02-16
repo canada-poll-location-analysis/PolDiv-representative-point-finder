@@ -14,5 +14,5 @@ Finds a representative point for the PolDiv
 
 You are here:
 
-![PolDiv-representative-point-finder](https://github.com/canada-poll-location-analysis/PolDiv-representative-point-finderblob/master/PolDivRepresentativePointFinder.png?raw=true)
+![PolDiv-representative-point-finder](https://github.com/canada-poll-location-analysis/PolDiv-representative-point-finder/blob/master/PolDivRepresentativePointFinder.png?raw=true)
 
